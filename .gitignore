@@ -6,6 +6,9 @@ multilingual_ckpts
 basetts_outputs_package/
 build/
 *.egg-info/
+venv/
 
 *.zip
 *.wav
+*.mp3
+data/
